@@ -1,5 +1,5 @@
 # pdf-generator
-Generate tons of Dynamic PDFs with Java iText and Acrobat Fields from Adobe Acrobat.
+Generate tons of Dynamic PDFs with Java iText and Acrobat Fields from Adobe Acrobat easily.
 
 ## Case
 - [Equals S/A](https://www.equals.com.br/)
